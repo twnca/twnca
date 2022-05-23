@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @twnca
-- 👀 I’m interested in blockchain, pyhton, javascript. and C
+- 👀 I’m interested in blockchain, pyhton, javascript, C and I know a bit C#, Unity.
 
 <!---
 twnca/twnca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
