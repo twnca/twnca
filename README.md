@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @twnca
-- 👀 I’m interested in blokchain, pyhton, javascript. and C :)
-- 🌱 I’m currently learning solidity and developing dApps.
-- 💞️ I’m looking to collaborate on decentralized projects solving centralized world problems.
-- 📫 DM me! :)
+- 👀 I’m interested in blockchain, pyhton, javascript. and C
 
 <!---
 twnca/twnca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
